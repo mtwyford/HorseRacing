@@ -9,13 +9,19 @@ public class Game {
   
   public ___ student_bet(___, ___, ___, ...) {
     
-    
+    // present data to students for them to bet
     
   }
   
   public ___ race_run(___, ___, ___, ...) {
     
     
+    
+  }
+  
+  public ___ printBoard(___, ___, ___, ...) {
+    
+    // print the current status of the game
     
   }
   
